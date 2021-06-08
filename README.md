@@ -1,16 +1,26 @@
-# sqlitetopico
 
-A new Flutter project.
+👋 Hi, I’m David Garcia Romero
 
-## Getting Started
+👀 I’m interested in Learn much a lot about tecnologies about, flutter,angular, etc
 
-This project is a starting point for a Flutter application.
+🌱 I’m currently learning flutter, and angular with nodejs
 
-A few resources to get you started if this is your first Flutter project:
+💞️ I’m looking to collaborate on any project using flutter.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+These are some projects in production developed in flutter that i have made:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://play.google.com/store/apps/details?id=com.loyaltyclubs.opalclub (Using Flutter)
+
+https://play.google.com/store/apps/details?id=com.loyaltyclubs.shell (Using Flutter)
+
+https://play.google.com/store/apps/details?id=com.loyaltyclubs.farmacorpatc (Using Flutter)
+
+https://play.google.com/store/apps/details?id=com.loyaltyclubs.sbcclub (Native)
+
+📫 How to reach me:
+
+Gmail: Davidijsud@gmail.com
+
+LinkedIn : https://www.linkedin.com/in/david-garcia-romero-73925a206/
+
+FB : https://www.facebook.com/david.garciaromero.184
